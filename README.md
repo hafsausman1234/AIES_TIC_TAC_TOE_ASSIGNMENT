@@ -1,4 +1,4 @@
-                                                                 "TIC_TAC_TOE_ASSIGNMENT"
+ "TIC_TAC_TOE_ASSIGNMENT"
 
 - This project implements a basic "Tic-Tac-Toe" game AI using two different decision-making algorithms: "Minimax" and "Alpha-Beta Pruning". It compares the efficiency of both in terms of move selection time.
 
